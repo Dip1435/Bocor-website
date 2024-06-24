@@ -1,0 +1,28 @@
+[
+  {
+    "type": "image",
+    "heading": "Your new digital experience with Bocor1",
+    "subheading": "We are team of talented designers making websites with Bootstrap",
+    "buttonText": "Get Started",
+    "buttonHref": "#about",
+    "Src": "/img/hero-img.png",
+    "imgAlt": "Hero Image"
+  },
+  {
+    "type": "image",
+    "heading": "Your new digital experience with Bocor2",
+    "subheading": "We are team of talented designers making websites with Bootstrap",
+    "buttonText": "Get Started",
+    "buttonHref": "#about",
+    "Src": "/img/features-2.svg",
+    "imgAlt": "Hero Image"
+  },
+  {
+    "type": "video",
+    "heading": "Your new digital experience with Bocor3",
+    "subheading": "We are team of talented designers making websites with Bootstrap",
+    "buttonText": "Get Started",
+    "buttonHref": "#about",
+    "Src": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4"
+  }
+]

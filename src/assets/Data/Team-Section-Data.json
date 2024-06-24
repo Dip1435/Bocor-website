@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Walter White",
+      "role": "Chief Executive Officer",
+      "image": "team/team-1.jpg",
+      "social": {
+        "twitter": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sarah Jhinson",
+      "role": "Product Manager",
+      "image": "team/team-2.jpg",
+      "social": {
+        "twitter": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 3,
+      "name": "William Anderson",
+      "role": "CTO",
+      "image": "team/team-3.jpg",
+      "social": {
+        "twitter": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 4,
+      "name": "Amanda Jepson",
+      "role": "Accountant",
+      "image": "team/team-4.jpg",
+      "social": {
+        "twitter": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    }
+  ]
+  

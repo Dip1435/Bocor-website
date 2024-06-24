@@ -1,0 +1,157 @@
+{
+    "sectionTitle": "Portfolio",
+    "sectionDescription": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+    "filters": [
+      { "label": "All", "filter": "*" },
+      { "label": "App", "filter": ".filter-app" },
+      { "label": "Card", "filter": ".filter-card" },
+      { "label": "Web", "filter": ".filter-web" }
+    ],
+    "portfolioItems": [
+      {
+        "imageSrc": "/img/portfolio/portfolio-1.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-1.jpg",
+        "lightboxTitle": "App 1",
+        "detailsHref": "portfolio-details.html",
+        "title": "App 1",
+        "category": "App"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-2.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-2.jpg",
+        "lightboxTitle": "Web 3",
+        "detailsHref": "portfolio-details.html",
+        "title": "Web 3",
+        "category": "Web"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-3.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-3.jpg",
+        "lightboxTitle": "App 2",
+        "detailsHref": "portfolio-details.html",
+        "title": "App 2",
+        "category": "App"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-4.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-4.jpg",
+        "lightboxTitle": "Card 2",
+        "detailsHref": "portfolio-details.html",
+        "title": "Card 2",
+        "category": "Card"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-5.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-5.jpg",
+        "lightboxTitle": "Web 2",
+        "detailsHref": "portfolio-details.html",
+        "title": "Web 2",
+        "category": "Web"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-6.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-6.jpg",
+        "lightboxTitle": "App 3",
+        "detailsHref": "portfolio-details.html",
+        "title": "App 3",
+        "category": "App"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-7.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-7.jpg",
+        "lightboxTitle": "Card 1",
+        "detailsHref": "portfolio-details.html",
+        "title": "Card 1",
+        "category": "Card"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-8.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-8.jpg",
+        "lightboxTitle": "Card 3",
+        "detailsHref": "portfolio-details.html",
+        "title": "Card 3",
+        "category": "Card"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-9.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-9.jpg",
+        "lightboxTitle": "Web 3",
+        "detailsHref": "portfolio-details.html",
+        "title": "Web 3",
+        "category": "Web"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-1.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-1.jpg",
+        "lightboxTitle": "App 1",
+        "detailsHref": "portfolio-details.html",
+        "title": "App 1",
+        "category": "App"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-2.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-2.jpg",
+        "lightboxTitle": "Web 3",
+        "detailsHref": "portfolio-details.html",
+        "title": "Web 3",
+        "category": "Web"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-3.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-3.jpg",
+        "lightboxTitle": "App 2",
+        "detailsHref": "portfolio-details.html",
+        "title": "App 2",
+        "category": "App"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-4.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-4.jpg",
+        "lightboxTitle": "Card 2",
+        "detailsHref": "portfolio-details.html",
+        "title": "Card 2",
+        "category": "Card"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-5.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-5.jpg",
+        "lightboxTitle": "Web 2",
+        "detailsHref": "portfolio-details.html",
+        "title": "Web 2",
+        "category": "Web"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-6.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-6.jpg",
+        "lightboxTitle": "App 3",
+        "detailsHref": "portfolio-details.html",
+        "title": "App 3",
+        "category": "App"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-7.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-7.jpg",
+        "lightboxTitle": "Card 1",
+        "detailsHref": "portfolio-details.html",
+        "title": "Card 1",
+        "category": "Card"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-8.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-8.jpg",
+        "lightboxTitle": "Card 3",
+        "detailsHref": "portfolio-details.html",
+        "title": "Card 3",
+        "category": "Card"
+      },
+      {
+        "imageSrc": "/img/portfolio/portfolio-9.jpg",
+        "lightboxHref": "/img/portfolio/portfolio-9.jpg",
+        "lightboxTitle": "Web 3",
+        "detailsHref": "portfolio-details.html",
+        "title": "Web 3",
+        "category": "Web"
+      }
+    ]
+  }
+  

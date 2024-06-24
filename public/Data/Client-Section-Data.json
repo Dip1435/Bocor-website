@@ -1,0 +1,22 @@
+{
+    "clients": [
+        {
+          "id":1,  "img": "/img/clients/client-1.png" , "dataAosDelay" : 0 , "link": "https://www.myob.com"
+        },
+        {
+          "id":2,  "img": "/img/clients/client-2.png" , "dataAosDelay" : 100 , "link":"https://www.belimo.com/"
+        },
+        {
+          "id":3,  "img": "/img/clients/client-3.png" , "dataAosDelay" : 200 , "link":"https://www.life.church/lifegroups/"
+        },
+        {
+          "id":4,  "img": "/img/clients/client-4.png" , "dataAosDelay" : 300 , "link":"https://www.lilly.com/in/"
+        },
+        {
+          "id":5,  "img": "/img/clients/client-5.png" , "dataAosDelay" : 400 , "link":"https://citrusbug.com/"
+        },
+        {
+          "id":6,  "img": "/img/clients/client-6.png" , "dataAosDelay" : 500 , "link":"https://us.trustly.com/"
+        }
+    ]
+}

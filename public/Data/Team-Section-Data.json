@@ -1,0 +1,211 @@
+{
+  "sectionTitle": "Team",
+  "sectionDescription": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+  "Team": [
+    {
+      "id": 1,
+      "name": "Walter White",
+      "role": "Chief Executive Officer",
+      "image": "/img/team/team-1.jpg",
+      "dataAosDelay": 0,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sarah Jhinson",
+      "role": "Product Manager",
+      "image": "/img/team/team-2.jpg",
+      "dataAosDelay": 100,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 3,
+      "name": "William Anderson",
+      "role": "CTO",
+      "image": "/img/team/team-3.jpg",
+      "dataAosDelay": 200,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Amanda Jepson",
+      "role": "Accountant",
+      "image": "/img/team/team-4.jpg",
+      "dataAosDelay": 300,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    }, {
+      "id": 5,
+      "name": "Walter White",
+      "role": "Chief Executive Officer",
+      "image": "/img/team/team-1.jpg",
+      "dataAosDelay": 400,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Sarah Jhinson",
+      "role": "Product Manager",
+      "image": "/img/team/team-2.jpg",
+      "dataAosDelay": 500,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 7,
+      "name": "William Anderson",
+      "role": "CTO",
+      "image": "/img/team/team-3.jpg",
+      "dataAosDelay": 600,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Amanda Jepson",
+      "role": "Accountant",
+      "image": "/img/team/team-4.jpg",
+      "dataAosDelay": 700,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },  {
+      "id": 1,
+      "name": "Walter White",
+      "role": "Chief Executive Officer",
+      "image": "/img/team/team-1.jpg",
+      "dataAosDelay": 0,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sarah Jhinson",
+      "role": "Product Manager",
+      "image": "/img/team/team-2.jpg",
+      "dataAosDelay": 100,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 3,
+      "name": "William Anderson",
+      "role": "CTO",
+      "image": "/img/team/team-3.jpg",
+      "dataAosDelay": 200,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Amanda Jepson",
+      "role": "Accountant",
+      "image": "/img/team/team-4.jpg",
+      "dataAosDelay": 300,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    }, {
+      "id": 5,
+      "name": "Walter White",
+      "role": "Chief Executive Officer",
+      "image": "/img/team/team-1.jpg",
+      "dataAosDelay": 400,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Sarah Jhinson",
+      "role": "Product Manager",
+      "image": "/img/team/team-2.jpg",
+      "dataAosDelay": 500,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 7,
+      "name": "William Anderson",
+      "role": "CTO",
+      "image": "/img/team/team-3.jpg",
+      "dataAosDelay": 600,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Amanda Jepson",
+      "role": "Accountant",
+      "image": "/img/team/team-4.jpg",
+      "dataAosDelay": 700,
+      "social": {
+        "instagramIcon": "bi bi-instagram",
+        "twitterIcon": "bi bi-twitter",
+        "facebookIcon": "bi bi-facebook",
+        "linkedinIcon": "bi bi-linkedin"
+      }
+    }
+  ]
+}

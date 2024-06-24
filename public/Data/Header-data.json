@@ -1,0 +1,16 @@
+{
+    "data": {
+        "logo": "bocor",
+        "DropDown": {
+            "DropDown1": "SubscribeList",
+            "DropDown": "ContactList"
+        },
+        "DeepDropDown": [
+            "DropDown1",
+            "DropDown2",
+            "DropDown3",
+            "DropDown4"
+        ],
+        "Get Started": "Get Started"
+    }
+}

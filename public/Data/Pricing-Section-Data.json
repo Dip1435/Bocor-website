@@ -1,0 +1,50 @@
+{
+    "sectionTitle": "Pricing",
+    "sectionDescription": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "period": "per month",
+        "features": [
+          { "feature": "Quam adipiscing vitae proin", "available": true },
+          { "feature": "Nec feugiat nisl pretium", "available": true },
+          { "feature": "Nulla at volutpat diam uteera", "available": true },
+          { "feature": "Pharetra massa massa ultricies", "available": false },
+          { "feature": "Massa ultricies mi quis hendrerit", "available": false }
+        ],
+        "ctaText": "Get Started",
+        "ctaLink": "#"
+      },
+      {
+        "name": "Business",
+        "price": "$29",
+        "period": "per month",
+        "features": [
+          { "feature": "Quam adipiscing vitae proin", "available": true },
+          { "feature": "Nec feugiat nisl pretium", "available": true },
+          { "feature": "Nulla at volutpat diam uteera", "available": true },
+          { "feature": "Pharetra massa massa ultricies", "available": true },
+          { "feature": "Massa ultricies mi quis hendrerit", "available": true }
+        ],
+        "ctaText": "Get Started",
+        "ctaLink": "#",
+        "featured": true
+      },
+      {
+        "name": "Developer",
+        "price": "$49",
+        "period": "per month",
+        "features": [
+          { "feature": "Quam adipiscing vitae proin", "available": true },
+          { "feature": "Nec feugiat nisl pretium", "available": true },
+          { "feature": "Nulla at volutpat diam uteera", "available": true },
+          { "feature": "Pharetra massa massa ultricies", "available": true },
+          { "feature": "Massa ultricies mi quis hendrerit", "available": true }
+        ],
+        "ctaText": "Get Started",
+        "ctaLink": "#"
+      }
+    ]
+  }
+  
